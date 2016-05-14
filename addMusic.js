@@ -44,5 +44,4 @@ function addMusic(){
       $albumNameText.val("");
     }
   });
-
 }
